@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.c++": "cpp",
+        "iostream": "cpp",
+        "barrier": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "latch": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp"
+    }
+}

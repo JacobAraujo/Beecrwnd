@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.js": "javascript",
+        "*.c++": "cpp",
+        "iostream": "cpp",
+        "iterator": "cpp",
+        "array": "cpp"
+    }
+}
